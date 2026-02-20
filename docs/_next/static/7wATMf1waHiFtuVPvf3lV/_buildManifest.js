@@ -1,33 +1,33 @@
 self.__BUILD_MANIFEST = {
   "/": [
-    "static/chunks/ac784844e4460035.js"
+    "static/chunks/eddebfc329f3d636.js"
   ],
   "/404": [
-    "static/chunks/089593d3b6f27188.js"
+    "static/chunks/915b24d503c61974.js"
   ],
   "/500": [
-    "static/chunks/4b2f2177798b02bd.js"
+    "static/chunks/d2858f43ce56e02d.js"
   ],
   "/_error": [
-    "static/chunks/6b80c0b4fdc3b57f.js"
+    "static/chunks/747d85e7991dd6be.js"
   ],
   "/boardcast-channel": [
-    "static/chunks/eb1e0af64cbad454.js"
+    "static/chunks/e1797aca2f75240e.js"
   ],
   "/clipboard": [
-    "static/chunks/546a34b8668c4fec.js"
+    "static/chunks/130725c1f6ad7021.js"
   ],
   "/console": [
-    "static/chunks/c5ec5f542b7060f8.js"
+    "static/chunks/d6a78f6899b7727a.js"
   ],
   "/indexeddb": [
-    "static/chunks/bb82b5d2f59d54a7.js"
+    "static/chunks/f2380ef09c128441.js"
   ],
   "/share": [
-    "static/chunks/44de91caddd9c782.js"
+    "static/chunks/65acf1c499a8213a.js"
   ],
   "/storage": [
-    "static/chunks/ef4c331cfc73181f.js"
+    "static/chunks/2af02047f64194a3.js"
   ],
   "__rewrites": {
     "afterFiles": [],
