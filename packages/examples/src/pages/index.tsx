@@ -87,7 +87,7 @@ const HomePage: NextPage = () => {
         <section className="space-y-12">
           <h2 className="text-center text-3xl font-bold">Included Modules</h2>
 
-          <div className="grid gap-8 md:grid-cols-3">
+          <div className="grid gap-8 sm:grid-cols-2 md:grid-cols-3">
             {features.map((feature) => (
               <div
                 key={feature.title}
