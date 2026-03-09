@@ -22,7 +22,7 @@
   },
   "scripts": {
     "format": "prettier --cache --write .",
-    "lint": "eslint",
+    "lint": "eslint . --fix",
     "predev": "kill-port 3000",
     "dev": "next dev",
     "prebuild": "rimraf .next ../../docs",
