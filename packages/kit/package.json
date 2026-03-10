@@ -22,7 +22,7 @@
   },
   "scripts": {
     "format": "prettier --cache --write .",
-    "lint": "eslint .",
+    "lint": "eslint . --fix",
     "build": "tsc -p tsconfig.build.json",
     "pretest": "jest --clearCache",
     "test": "jest --detectOpenHandles"
