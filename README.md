@@ -39,6 +39,9 @@ Browser is a focused project in this monorepo that delivers a practical tool wit
 - 💻 [CLI](https://github.com/hieudoanm/browser/releases)
 - 📱 [Mobile](https://github.com/hieudoanm/browser/releases)
 - 🖥️ [Desktop](https://github.com/hieudoanm/browser/releases)
+  - 🍎 [MacOS](https://github.com/hieudoanm/browser/releases/tag/macos-latest)
+  - 🐧 [Ubuntu](https://github.com/hieudoanm/browser/releases/tag/ubuntu-latest)
+  - 🪟 [Windows](https://github.com/hieudoanm/browser/releases/tag/windows-latest)
 
 ## 🛠️ 5. Development Stack
 
